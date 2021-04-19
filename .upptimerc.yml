@@ -4,14 +4,6 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: 3inoneservices.co.uk
-    url: https://3inoneservices.co.uk
-
-  - name: 7surreystreet.co.uk
-    url: https://7surreystreet.co.uk
-
-  - name: abel.construction
-    url: https://abel.construction
 
   - name: abelconstruction.co.uk
     url: https://abelconstruction.co.uk
@@ -19,8 +11,7 @@ sites:
   - name: abelenergy.co.uk
     url: https://abelenergy.co.uk
 
-  - name: abetterbunch.co.uk
-    url: https://abetterbunch.co.uk
+
 
   - name: agaservicing.com
     url: https://agaservicing.com
@@ -28,32 +19,26 @@ sites:
   - name: allmakemotorparts.com
     url: https://allmakemotorparts.com
 
-  - name: allmakemotorparts.co.uk
-    url: https://allmakemotorparts.co.uk
 
-  - name: alphatango.co.uk
-    url: https://alphatango.co.uk
+
+
 
   - name: amispiling.co.uk
     url: https://amispiling.co.uk
 
-  - name: angliafabrication.co.uk
-    url: https://angliafabrication.co.uk
 
-  - name: angliakarting.com
-    url: https://angliakarting.com
+
+ 
 
   - name: angliapallets.co.uk
     url: https://angliapallets.co.uk
 
-  - name: arwgroup.co.uk
-    url: https://arwgroup.co.uk
+
 
   - name: arwwealthmanagers.co.uk
     url: https://arwwealthmanagers.co.uk
 
-  - name: bandahoward.co.uk
-    url: https://bandahoward.co.uk
+
 
   - name: bankboats.co.uk
     url: https://bankboats.co.uk
@@ -61,56 +46,40 @@ sites:
   - name: baybridgeinvestments.com
     url: https://baybridgeinvestments.com
 
-  - name: beabutcher.com
-    url: https://beabutcher.com
+ 
 
   - name: beabutcher.co.uk
     url: https://beabutcher.co.uk
 
-  - name: bedroomsos.co.uk
-    url: https://bedroomsos.co.uk
 
-  - name: beverley-house.co.uk
-    url: https://beverley-house.co.uk
 
-  - name: bgd-group.co.uk
-    url: https://bgd-group.co.uk
+  
 
-  - name: biblerepairs.co.uk
-    url: https://biblerepairs.co.uk
 
-  - name: birdlife.co.uk
-    url: https://birdlife.co.uk
+
+  
+
+
 
   - name: birdsofdereham.com
     url: https://birdsofdereham.com
 
-  - name: birdsofdereham.co.uk
-    url: https://birdsofdereham.co.uk
 
-  - name: birds-sport.co.uk
-    url: https://birds-sport.co.uk
 
-  - name: birds-teamwear.co.uk
-    url: https://birds-teamwear.co.uk
 
-  - name: birds-workwear.co.uk
-    url: https://birds-workwear.co.uk
 
-  - name: bishopsboats.com
-    url: https://bishopsboats.com
+ 
 
-  - name: bishopsboats.co.uk
-    url: https://bishopsboats.co.uk
+  
+
+
 
   - name: bishybarnabees.co.uk
     url: https://bishybarnabees.co.uk
 
-  - name: bishybarnabees.org
-    url: https://bishybarnabees.org
 
-  - name: blacksheep.ltd.uk
-    url: https://blacksheep.ltd.uk
+
+  
 
   - name: bmn-management.com
     url: https://bmn-management.com
@@ -121,14 +90,12 @@ sites:
   - name: brundallgardensmarina.com
     url: https://brundallgardensmarina.com
 
-  - name: brundallgardensmarina.co.uk
-    url: https://brundallgardensmarina.co.uk
+
 
   - name: burnvalleyfisheries.co.uk
     url: https://burnvalleyfisheries.co.uk
 
-  - name: butterleyhouse.co.uk
-    url: https://butterleyhouse.co.uk
+
 
   - name: cafe7surreystreet.co.uk
     url: https://cafe7surreystreet.co.uk
@@ -136,23 +103,9 @@ sites:
   - name: calcotthall.com
     url: https://calcotthall.com
 
-  - name: calcotthall.co.uk
-    url: https://calcotthall.co.uk
 
-  - name: cambridgebookbinders.com
-    url: https://cambridgebookbinders.com
 
-  - name: cambridgebookbinders.co.uk
-    url: https://cambridgebookbinders.co.uk
-
-  - name: cambridgebookbinding.com
-    url: https://cambridgebookbinding.com
-
-  - name: cambridgebookbinding.co.uk
-    url: https://cambridgebookbinding.co.uk
-
-  - name: cambridgethesisprinting.co.uk
-    url: https://cambridgethesisprinting.co.uk
+ 
 
   - name: canoethebroads.co.uk
     url: https://canoethebroads.co.uk
@@ -160,29 +113,22 @@ sites:
   - name: caravanman.org.uk
     url: https://caravanman.org.uk
 
-  - name: catfieldtaxis.co.uk
-    url: https://catfieldtaxis.co.uk
+  
 
   - name: cavaliermailing.com
     url: https://cavaliermailing.com
 
-  - name: cawdron.co.uk
-    url: https://cawdron.co.uk
+  
 
-  - name: cherrytreefarmhouse.com
-    url: https://cherrytreefarmhouse.com
+  
 
-  - name: churchcottagelangham.co.uk
-    url: https://churchcottagelangham.co.uk
+  
 
-  - name: clabburn.com
-    url: https://clabburn.com
+  
 
-  - name: clabburn.co.uk
-    url: https://clabburn.co.uk
+ 
 
-  - name: classiccotton.co.uk
-    url: https://classiccotton.co.uk
+ 
 
   - name: coastalphotography.co.uk
     url: https://coastalphotography.co.uk
@@ -196,14 +142,12 @@ sites:
   - name: coopershouse.co.uk
     url: https://coopershouse.co.uk
 
-  - name: cotton-clothing.co.uk
-    url: https://cotton-clothing.co.uk
+ 
 
   - name: craigdolbyracing.com
     url: https://craigdolbyracing.com
 
-  - name: crewairlinetickets.com
-    url: https://crewairlinetickets.com
+ 
 
   - name: crowshall.co.uk
     url: https://crowshall.co.uk
@@ -223,44 +167,30 @@ sites:
   - name: discovernorfolk.co.uk
     url: https://discovernorfolk.co.uk
 
-  - name: dom-fox.co.uk
-    url: https://dom-fox.co.uk
+  
 
   - name: domfox.co.uk
     url: https://domfox.co.uk
 
-  - name: easyroutehosting.co.uk
-    url: https://easyroutehosting.co.uk
 
-  - name: easyroutehosting.org
-    url: https://easyroutehosting.org
+
+
 
   - name: edgecharter.com
     url: https://edgecharter.com
 
-  - name: edgecharter.co.uk
-    url: https://edgecharter.co.uk
+ 
 
-  - name: edgecharter.fr
-    url: https://edgecharter.fr
+  
 
   - name: electricagaservicing.com
     url: https://electricagaservicing.com
 
-  - name: elektra-electrical.com
-    url: https://elektra-electrical.com
 
-  - name: elektra-electrical.co.uk
-    url: https://elektra-electrical.co.uk
 
-  - name: engraveitnow.co.uk
-    url: https://engraveitnow.co.uk
 
-  - name: engraversworld.com
-    url: https://engraversworld.com
 
-  - name: engraversworld.co.uk
-    url: https://engraversworld.co.uk
+ 
 
   - name: eriba-shop.co.uk
     url: https://eriba-shop.co.uk
@@ -277,11 +207,7 @@ sites:
   - name: explorewestnorfolk.co.uk
     url: https://explorewestnorfolk.co.uk
 
-  - name: farthingcottage.co.uk
-    url: https://farthingcottage.co.uk
-
-  - name: felineexecutivetravel.com
-    url: https://felineexecutivetravel.com
+  
 
   - name: felinetravel.com
     url: https://felinetravel.com
@@ -289,14 +215,9 @@ sites:
   - name: felinetravel.co.uk
     url: https://felinetravel.co.uk
 
-  - name: fitforyourfuture.co.uk
-    url: https://fitforyourfuture.co.uk
+ 
 
-  - name: fitforyourfuture.org.uk
-    url: https://fitforyourfuture.org.uk
-
-  - name: fledgeandson.co.uk
-    url: https://fledgeandson.co.uk
+ 
 
   - name: flitzfotos.com
     url: https://flitzfotos.com
@@ -340,11 +261,7 @@ sites:
   - name: greatandlittleplumsteadparishcouncil.co.uk
     url: https://greatandlittleplumsteadparishcouncil.co.uk
 
-  - name: greatyarmouthminibushire.com
-    url: https://greatyarmouthminibushire.com
-
-  - name: greatyarmouthminibushire.co.uk
-    url: https://greatyarmouthminibushire.co.uk
+ 
 
   - name: greensolarfootprint.co.uk
     url: https://greensolarfootprint.co.uk
@@ -355,8 +272,7 @@ sites:
   - name: haap.co.uk
     url: https://haap.co.uk
 
-  - name: hamerton.net
-    url: https://hamerton.net
+ 
 
   - name: healthnetexpress.com
     url: https://healthnetexpress.com
@@ -370,11 +286,7 @@ sites:
   - name: ibookingsystem.co.uk
     url: https://ibookingsystem.co.uk
 
-  - name: identitydocuments.co.uk
-    url: https://identitydocuments.co.uk
-
-  - name: identitydocumentsolutions.co.uk
-    url: https://identitydocumentsolutions.co.uk
+ 
 
   - name: ilearnabout.org
     url: https://ilearnabout.org
@@ -382,8 +294,6 @@ sites:
   - name: innershed.com
     url: https://innershed.com
 
-  - name: innershed.co.uk
-    url: https://innershed.co.uk
 
   - name: investmentcatalyst.co.uk
     url: https://investmentcatalyst.co.uk
@@ -400,11 +310,9 @@ sites:
   - name: justfordog.co.uk
     url: https://justfordog.co.uk
 
-  - name: ladiesshootingsociety.co.uk
-    url: https://ladiesshootingsociety.co.uk
 
-  - name: leadtrackerpro.com
-    url: https://leadtrackerpro.com
+
+ 
 
   - name: littleplumsteadbedandbreakfast.com
     url: https://littleplumsteadbedandbreakfast.com
@@ -418,8 +326,7 @@ sites:
   - name: lotribay.com
     url: https://lotribay.com
 
-  - name: luxurytoilets.co.uk
-    url: https://luxurytoilets.co.uk
+
 
   - name: mabulazambia.com
     url: https://mabulazambia.com
