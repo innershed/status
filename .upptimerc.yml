@@ -344,9 +344,6 @@ sites:
   - name: thecaravanman.org.uk
     url: https://thecaravanman.org.uk
 
-  - name: thedogconsultant.co.uk
-    url: https://thedogconsultant.co.uk
-
   - name: thegranaries.co.uk
     url: https://thegranaries.co.uk
 
@@ -404,7 +401,6 @@ sites:
   - name: zayohub.com
     url: https://zayohub.com
 
-    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
